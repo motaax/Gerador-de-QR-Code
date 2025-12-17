@@ -1,3 +1,3 @@
-# Site que gera um QR Code de forma eficiente!
+# Site que gera QR Code de forma rápida e eficiente!
 
 https://gerador-de-qr-code-ecru-iota.vercel.app/
